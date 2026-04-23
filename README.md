@@ -1,11 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/l5aEXaFh)
-# Trabalho Prático - Semana 6
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/z9sTQdL4)
+# Trabalho Prático - Semana 5
 
-Nessa atividade, como sempre, vamos evoluir o que foi feito na semana anterior. Fique atento para fazer o projeto da semana anterior e dar sequência nessa jornada.
+Dessa vez, vamos dar sequência ao projeto iniciado na semana passada. Se você ainda não fez o projeto da semana anterior, fique atento, se programe e procure colocar as atividades em dia. Volte lá, leia tudo e faça sua parte pois essa atividade depende da atividade anterior..
 
-No trabalho dessa semana vamos alterar o projeto para que a responsividade da home-page seja feita, agora, com o framework Bootstrap.
+Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto no celular quanto no desktop, entendendo também como é o processo gradativo e colaborativo de desenvolvimento de um software, registrando cada etapa no histórico de commits do repositório do git/GitHub.
 
-**IMPORTANTE 1:** Você deve alterar apenas os arquivos **`README.md`**, **`index.html`** e **`styles.css`**, podendo incluir outros arquivos como imagens na pasta **`images`**, caso necessário. Deixe todos os demais arquivos e pastas desse repositório inalterados. **PRESTE MUITA ATENÇÃO NISSO.**
+**IMPORTANTE:** Você deve trabalhar e alterar apenas arquivos dentro da pasta **`public`,** mantendo os arquivos **`index.html`** e **`styles.css`** com estes nomes. Deixe todos os demais arquivos e pastas desse repositório inalterados. **PRESTE MUITA ATENÇÃO NISSO.**
 
 ## Informações Gerais
 
@@ -14,11 +14,11 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 - Proposta de projeto escolhida:
 - Breve descrição sobre seu projeto:
 
-## Print da versão responsiva com Bootstrap [DESKTOP]
+## Print da versão responsiva com CSS puro [DESKTOP]
 
 <<  COLOQUE A IMAGEM AQUI >>
 
-## Print da versão responsiva com Bootstrap [MOBILE] (*)
+## Print da versão responsiva com CSS puro [MOBILE] (*)
 
 <<  COLOQUE A IMAGEM AQUI >>
 
