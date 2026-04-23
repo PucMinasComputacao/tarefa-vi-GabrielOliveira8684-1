@@ -1,26 +1,33 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/z9sTQdL4)
-# Trabalho Prático - Semana 5
+# 🌿 TrilhaVerde
 
-Dessa vez, vamos dar sequência ao projeto iniciado na semana passada. Se você ainda não fez o projeto da semana anterior, fique atento, se programe e procure colocar as atividades em dia. Volte lá, leia tudo e faça sua parte pois essa atividade depende da atividade anterior..
+Site responsivo de parques e trilhas do Brasil, desenvolvido com HTML, CSS e Bootstrap 5.
 
-Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto no celular quanto no desktop, entendendo também como é o processo gradativo e colaborativo de desenvolvimento de um software, registrando cada etapa no histórico de commits do repositório do git/GitHub.
+## Tecnologias
 
-**IMPORTANTE:** Você deve trabalhar e alterar apenas arquivos dentro da pasta **`public`,** mantendo os arquivos **`index.html`** e **`styles.css`** com estes nomes. Deixe todos os demais arquivos e pastas desse repositório inalterados. **PRESTE MUITA ATENÇÃO NISSO.**
+- HTML5
+- CSS3
+- Bootstrap 5.3
 
-## Informações Gerais
+## Funcionalidades
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Navbar responsiva com menu hambúrguer no mobile
+- Banner principal com texto sobreposto
+- Formulário de busca por parque e estado
+- Grid de cards responsivo (1 coluna no mobile, 2 no tablet, 3 no desktop)
+- Rodapé com links para redes sociais
 
-## Print da versão responsiva com CSS puro [DESKTOP]
+## Responsividade
 
-<<  COLOQUE A IMAGEM AQUI >>
+| Tela | Layout |
+|------|--------|
+| Mobile (< 576px) | 1 coluna |
+| Tablet (≥ 576px) | 2 colunas |
+| Desktop (≥ 992px) | 3 colunas |
 
-## Print da versão responsiva com CSS puro [MOBILE] (*)
+## Como usar
 
-<<  COLOQUE A IMAGEM AQUI >>
+Abra o arquivo `index.html` direto no navegador. Não precisa de servidor ou instalação.
 
+---
 
-(*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
+Feito por Gabriel oliveira — 2024
